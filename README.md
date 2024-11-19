@@ -10,6 +10,7 @@ to list the local branches:
 git branch
 To create a branch:
 
+
 git checkout -b class01
 To see the latest local changes:
 
